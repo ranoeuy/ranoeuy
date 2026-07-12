@@ -3,11 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/4hoofi.png"style="width: 40%; height: auto;" />
+  <img src="https://files.catbox.moe/wmerir.png"style="width: 40%; height: auto;" />
 </p>
 
   <p align="center">
 <img width="400" height="auto" alt="IMG_9708" src="https://github.com/user-attachments/assets/e2a3dd0b-cfae-4d6a-889d-e4f66c9f8224" />
+
+<p align="center">
+  <img src="https://files.catbox.moe/2mnzlw.png"style="width: 40%; height: auto;" />
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
